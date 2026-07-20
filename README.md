@@ -2,15 +2,15 @@
 
 ## Project Overview
 
-I created this home network topology lab to strengthen my networking fundamentals and improve my understanding of how network traffic flows from a Security Operations Centre (SOC) analyst's perspective. This project also gave me hands-on experience with basic network design and traffic analysis using Wireshark.
+I created this home network topology lab to strengthen my networking fundamentals and improve my understanding of how network traffic flows from a cybersecurity analyst's perspective. This project also provided hands-on experience with basic network design and traffic analysis using Wireshark, helping me develop practical skills in network analysis and defensive security..
 
-## Objectives
+## Objectives.
 
 - Build a basic home network topology.
 - Understand the role of the ISP modem, firewall, and wireless router.
 - Capture and analyze network traffic using Wireshark.
-- Understand how traffic flows from a client device to a web server.
-- Demonstrate foundational networking knowledge relevant to SOC analysis.
+- Understand how network traffic flows from a client device to a web server.
+- Develop practical networking skills that support cybersecurity analysis and network security.
 
 ## Network Topology
 
@@ -58,7 +58,7 @@ This lab highlights several basic security concepts:
 
 ## What I Learned
 
-This project strengthened my understanding of basic networking concepts, including IP addressing, DNS resolution, TCP/IP communication, packet flow, and Network Address Translation (NAT). Using Wireshark allowed me to observe how devices communicate across a network and reinforced the importance of network traffic analysis in a Security Operations Centre (SOC) environment.  This lab helped me connect networking theory with practical, hands-on experience.
+These observations strengthened my understanding of network communication and how cybersecurity analysts use packet analysis to monitor network activity, identify anomalies, and support security investigations.I now understand the basics of networking concepts, including IP addressing, DNS resolution, TCP/IP communication, packet flow, and Network Address Translation (NAT). Using Wireshark allowed me to observe how devices communicate across a network and reinforced the importance of network traffic analysis.
 
 
 
